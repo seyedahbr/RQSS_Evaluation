@@ -1,0 +1,33 @@
+{
+   "labels": false,
+   "version": "1",
+   "statements": [
+      {
+         "qualifiers": false,
+         "id": 0,
+         "simple": true,
+         "rank": "all",
+         "full": true,
+         "references": true
+      }
+   ],
+   "meta": true,
+   "aliases": true,
+   "sitelinks": true,
+   "descriptions": false,
+   "entities": [
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "id": 31,
+               "value": "Q898273",
+               "property": "P31"
+            }
+         ],
+         "id": 32
+      }
+   ]
+}

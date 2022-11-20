@@ -1,0 +1,1276 @@
+{
+   "labels": false,
+   "version": "1",
+   "statements": [
+      {
+         "qualifiers": false,
+         "id": 0,
+         "simple": true,
+         "rank": "all",
+         "full": true,
+         "references": true
+      }
+   ],
+   "meta": true,
+   "aliases": true,
+   "sitelinks": true,
+   "descriptions": false,
+   "entities": [
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "id": 43,
+               "value": "Q50379781",
+               "property": "P31"
+            }
+         ],
+         "id": 44
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q73984",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q173235",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q178859",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q188724",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q211036",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q217972",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q274083",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q421700",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q576618",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q581102",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q2853144",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q4004659",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q6881918",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q7118227",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q40207875",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q41602594",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q50377188",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q50429867",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q50430353",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q12187",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q183119",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q215118",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q306264",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q427523",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q739867",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q742487",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q908096",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q1724806",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q1886461",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q3818190",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q4293209",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q4971815",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q5156833",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q45355603",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q106656537",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q106930475",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q106948862",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q940",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q190016",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q274493",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q377458",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q419890",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q567709",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q846227",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q1941660",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q3718510",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q4990531",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q85789143",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q76560",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q194270",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q200656",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q343465",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q904216",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q927234",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q2314176",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q2728188",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q2750727",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q3045009",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q7577503",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q50430310",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q12190",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q421951",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q425196",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q1076381",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q5017160",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q5726634",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q7162597",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q62010421",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q6097",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q8486",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q11002",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q13261",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q195",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q203415",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q208144",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q231587",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q238306",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q348958",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q379932",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q421559",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q422676",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q484083",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q847705",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q954845",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q1868462",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q2755101",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q2783854",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q27114110",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q63284571",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q72296281",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q62903",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q62962",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q858049",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q1884224",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q2542583",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q131748",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q178024",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q758295",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q817281",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q909194",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q910391",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q5098942",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q5195232",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q37756327",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q1049852",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q27103118",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q57998504",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q203540",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q28838591",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q147651",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q522171",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q815740",
+               "property": "P31"
+            }
+         ]
+      },
+      {
+         "type": "item",
+         "properties": [
+            {
+               "type": "entityid",
+               "rank": "all",
+               "value": "Q249114",
+               "property": "P31"
+            }
+         ]
+      }
+   ]
+}
