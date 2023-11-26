@@ -1,0 +1,11 @@
+SELECT DISTINCT (COUNT(?prop) AS ?count) WHERE {
+  
+  # Checking the property is reference specific
+  ?prop p:P2302 ?statement.
+  ?statement ps:P2302 wd:Q53869507.
+  ?statement pq:P5314 wd:Q54828450.
+  
+  # Checking the property has equivalent
+  # to be commented for getting all ref specific properties.
+  ?prop wdt:P1628 ?eq.
+}
